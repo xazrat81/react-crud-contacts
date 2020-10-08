@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "user1",
+      "password": "3c2a6eb64cc629de76c419308830c53bbe63b874f6a526f7cd784182b33a2f5f3daaab47b5bde5868b82e4dd3b521d147a7542292b689acdf60122b97e99523f"
+    },
+    {
+      "id": 2,
+      "login": "user2",
+      "password": "3c2a6eb64cc629de76c419308830c53bbe63b874f6a526f7cd784182b33a2f5f3daaab47b5bde5868b82e4dd3b521d147a7542292b689acdf60122b97e99523f"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 3,
+      "name": "Barack Obama",
+      "phone": "+6 865902349023",
+      "address": "The White House",
+      "userId": 2
+    },
+    {
+      "name": "Nekrasov Mikhail",
+      "phone": "+565 46548546",
+      "address": "Moscow",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "name": "Bill Gates",
+      "phone": "+565 98934234",
+      "address": "Sacramento, CA",
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "name": "Tom Cruze",
+      "phone": "+1 656456487",
+      "address": "Hollywood",
+      "userId": 1,
+      "id": 9
+    }
+  ]
+}
