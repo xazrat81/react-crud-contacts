@@ -13,18 +13,11 @@
   ],
   "contacts": [
     {
-      "id": 3,
       "name": "Barack Obama",
       "phone": "+6 865902349023",
-      "address": "The White House",
-      "userId": 2
-    },
-    {
-      "name": "Nekrasov Mikhail",
-      "phone": "+565 46548546",
-      "address": "Moscow",
-      "userId": 1,
-      "id": 7
+      "address": "Washington, USA",
+      "userId": 2,
+      "id": 3
     },
     {
       "name": "Bill Gates",
@@ -39,6 +32,20 @@
       "address": "Hollywood",
       "userId": 1,
       "id": 9
+    },
+    {
+      "name": "Mahatma Ghandi",
+      "phone": "+895 47488756546",
+      "address": "Delhi, India",
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "name": "Kim Jong Un",
+      "phone": "+999 9999 999",
+      "address": "North Korea",
+      "userId": 1,
+      "id": 11
     }
   ]
 }
